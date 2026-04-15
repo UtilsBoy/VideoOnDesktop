@@ -1,3 +1,7 @@
+//CODE BY UtilsBoy & docenkoviktorrr-hash
+//ITS CODE FOR VIDEO ON DESKTOP
+// OK LETS GO
+
 using System;
 using System.Drawing;
 using System.Windows.Forms;
